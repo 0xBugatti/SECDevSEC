@@ -323,7 +323,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="JetBrains" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pycharm.svg" alt="PyCharm" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/goland.svg" alt="GoLand" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clion.svg" alt="CLion" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/webstorm.svg" alt="WebStorm" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="JetBrains" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clion.svg" alt="CLion" width="40" height="40" />
 
 #### Terminal Editors
 
@@ -342,20 +342,11 @@ The script runs through **23 numbered sections**, each with a TUI header:
 | VS Code | ddc367ed | latest/stable |
 | VS Code Insiders | 00515ed0 | latest/stable |
 | IntelliJ IDEA Community | 2024.3.4.1 | latest/stable |
-| IntelliJ IDEA Ultimate | 2024.3.4.1 | latest/stable |
 | PyCharm Community | 2024.3.5 | latest/stable |
-| PyCharm Professional | 2024.3.5 | latest/stable |
 | CLion | 2024.3.5 | latest/stable |
-| GoLand | 2024.3.5 | latest/stable |
-| WebStorm | 2024.3.5 | latest/stable |
-| PhpStorm | 2024.3.5 | latest/stable |
 | RubyMine | 2024.3.5 | latest/stable |
 | Rider | 2024.3.6 | latest/stable |
 | RustRover | 2024.3.7 | latest/stable |
-| DataGrip | 2024.3.3 | latest/stable |
-| DataSpell | 2024.3.2 | latest/stable |
-| Android Studio (Koala) | 2024.1.1.11 | latest/stable |
-| Eclipse | 2026-03 | latest/stable |
 | MarkText | 0.17.1 | latest/stable |
 
 ---
@@ -388,9 +379,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
 | mongodb-database-tools | 100.10.0 | apt |
 | redis-tools | 7.0.15 | apt |
 | phpMyAdmin | 5.2.1 | apt |
-| DBeaver CE | 25.0.1 | snap |
 | Beekeeper Studio | 5.6.3 | snap |
-| DataGrip | 2024.3.3 | snap |
 
 #### Database Python & PHP Packages
 
@@ -758,21 +747,12 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
 |---|---|
 | VS Code | ddc367ed |
 | VS Code Insiders | 00515ed0 |
-| Android Studio (Koala) | 2024.1.1.11 |
-| Eclipse | 2026-03 |
 | IntelliJ IDEA Community | 2024.3.4.1 |
-| IntelliJ IDEA Ultimate | 2024.3.4.1 |
 | PyCharm Community | 2024.3.5 |
-| PyCharm Professional | 2024.3.5 |
 | CLion | 2024.3.5 |
-| GoLand | 2024.3.5 |
-| WebStorm | 2024.3.5 |
-| PhpStorm | 2024.3.5 |
 | RubyMine | 2024.3.5 |
 | Rider | 2024.3.6 |
 | RustRover | 2024.3.7 |
-| DataGrip | 2024.3.3 |
-| DataSpell | 2024.3.2 |
 | Gradle | 8.14.4 |
 | CMake | 4.3.1 |
 | Kotlin | 2.3.20 |
@@ -784,7 +764,6 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
 | Minikube | 0.8.0 |
 | GitHub CLI (gh) | 2.6.0 |
 | PowerShell | 7.6.0 |
-| Flutter Gallery | v2.8.1 |
 
 </details>
 
@@ -793,9 +772,6 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
 
 | App | Version |
 |---|---|
-| Postman | 11.71.7 |
-| Insomnia | 12.4.0 |
-| DBeaver CE | 25.0.1 |
 | Beekeeper Studio | 5.6.3 |
 | Azure Storage Explorer | 1.42.0 |
 
@@ -821,20 +797,10 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
 |---|---|
 | Notion Desktop | 1.1.2 |
 | MarkText | 0.17.1 |
-| AppFlowy | 0.10.6 |
 | OnlyOffice | 8.3.3 |
-| Skype | 8.138.0 |
-| Slack | 4.46.99 |
-| Discord | 0.0.130 |
-| Telegram | 6.6.2 |
 | Session Desktop | 1.17.15 |
-| Thunderbird | 140.9.0 |
 | JetBrains Space | 2023.1.7 |
-| Umbrello (UML) | 23.08.3 |
-| Brave Browser | 1.88.136 |
 | Firefox | 136.0.1 |
-| Google Chrome | 143.0.7499.169 |
-| Bruno | -- |
 
 </details>
 
@@ -955,11 +921,8 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
 | HTTPie | 3.2.2 | HTTP client CLI |
 | grpcurl | 1.8.9 | gRPC CLI client |
 | evans | 0.10.11 | gRPC interactive client |
-| DBeaver | 25.3.0 | Universal DB GUI |
 | PlantUML | -- | Diagram generator |
 | Protocol Buffers (protoc) | 3.21.12 | Protobuf compiler |
-| OWASP ZAP | -- | Web app scanner |
-| DirBuster | -- | Directory brute-forcer GUI |
 
 ---
 
@@ -1053,7 +1016,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="Firefox" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="Brave" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/slack.svg" alt="Slack" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" /> <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="Firefox" width="40" height="40" /> <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="40" height="40" />
 
 ---
 
@@ -1063,7 +1026,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> <img src="https://cdn.simpleicons.org/insomnia/4000BF" alt="Insomnia" width="40" height="40" /> <img src="https://cdn.simpleicons.org/dbeaver/372923" alt="DBeaver" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/dbeaver/372923" alt="Beekeeper" width="40" height="40" />
 
 ---
 
