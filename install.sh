@@ -1170,11 +1170,6 @@ safe_pip mitmproxy || true
 safe_pip httpie || true
 success "Wfuzz, mitmproxy, HTTPie installed."
 
-info "Installing OWASP ZAP..."
-#safe_snap zaproxy --classic || true
-#success "OWASP ZAP installed."
-
-
 success "Security and network tools installed."
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1802,20 +1797,11 @@ success "VS Code installed."
 
 info "Installing JetBrains IDEs (this may take a while)..."
 safe_snap intellij-idea-community --classic || true
-#safe_snap intellij-idea-ultimate --classic || true
 safe_snap pycharm-community --classic || true
-#safe_snap pycharm-professional --classic || true
 safe_snap clion --classic || true
-#safe_snap goland --classic || true
-#safe_snap webstorm --classic || true
-#safe_snap phpstorm --classic || true
 safe_snap rubymine --classic || true
 safe_snap rider --classic || true
 safe_snap rustrover --classic || true
-#safe_snap datagrip --classic || true
-#safe_snap dataspell --classic || true
-#safe_snap android-studio --classic || true
-#safe_snap eclipse --classic || true
 safe_snap marktext || true
 success "JetBrains IDEs and editors installed."
 
@@ -1841,10 +1827,6 @@ success "JetBrains Space CLI installed."
 success "kubectl, minikube, jenkins, powershell, JetBrains Space installed."
 
 info "Installing API and DB client tools..."
-#safe_snap postman || true
-#safe_snap insomnia || true
-#safe_snap bruno || true
-#safe_snap dbeaver-ce || true
 safe_snap beekeeper-studio || true
 safe_snap storage-explorer || true
 success "API and DB tools installed."
@@ -1862,38 +1844,14 @@ success "Terminal and comms snaps installed."
 
 info "Installing productivity and browser snaps..."
 safe_snap notion-desktop || true
-#safe_snap appflowy || true
 safe_snap onlyoffice-desktopeditors || true
-#safe_snap brave || true
-#safe_snap slack --classic || true
-#safe_snap discord || true
-#safe_snap telegram-desktop || true
-#safe_snap skype --classic || true
-#safe_snap thunderbird || true
 safe_snap session-desktop || true
-#safe_snap umbrello || true
-#safe_snap 0ad || true
-#safe_snap flutter-gallery || true
 success "Productivity snaps installed."
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 21. BROWSERS
 # ─────────────────────────────────────────────────────────────────────────────
 section_header "BROWSERS"
-#info "Installing Google Chrome..."
-#if ! command -v google-chrome &>/dev/null; then
-    #safe_curl google-chrome "https://dl.google.com/linux/direct/google-chrome-stable_current_${ARCH}.deb" /tmp/chrome.deb && \
-#        safe_dpkg google-chrome /tmp/chrome.deb && rm -f /tmp/chrome.deb || \
-#        { rm -f /tmp/chrome.deb 2>/dev/null; _log_result fail "google-chrome" "curl|dpkg" "install failed"; }
-#else
-#    _log_result skip "google-chrome" "curl|dpkg" "already installed"
-#fi
-#success "Google Chrome installed."
-
-info "Installing Chromium..."
-#safe_snap chromium || safe_apt chromium-browser || true
-#success "Chromium installed."
-
 info "Installing Firefox..."
 safe_apt firefox || safe_snap firefox || true
 success "Firefox installed."
