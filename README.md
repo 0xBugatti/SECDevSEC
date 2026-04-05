@@ -233,7 +233,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" /> <img src="https://cdn.simpleicons.org/deno/000000" alt="Deno" width="40" height="40" /> <img src="https://cdn.simpleicons.org/bun/000000" alt="Bun" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="Perl" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" /> <img src="https://cdn.simpleicons.org/deno/000000" alt="Deno" width="40" height="40" /> <img src="https://cdn.simpleicons.org/bun/000000" alt="Bun" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="Perl" width="40" height="40" />
 
 | Language / Runtime | Version | Install Source |
 |---|---|---|
@@ -323,7 +323,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg" alt="VS Code" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="JetBrains" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains_pycharm/jetbrains_pycharm-icon.svg" alt="PyCharm" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains_goland/jetbrains_goland-icon.svg" alt="GoLand" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains_clion/jetbrains_clion-icon.svg" alt="CLion" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains_webstorm/jetbrains_webstorm-icon.svg" alt="WebStorm" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="JetBrains" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pycharm.svg" alt="PyCharm" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/goland.svg" alt="GoLand" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clion.svg" alt="CLion" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/webstorm.svg" alt="WebStorm" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40" />
 
 #### Terminal Editors
 
@@ -405,7 +405,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/caddyserver/caddyserver-icon.svg" alt="Caddy" width="40" height="40" /> <img src="https://cdn.simpleicons.org/letsencrypt/003A70" alt="Certbot" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/caddy.svg" alt="Caddy" width="40" height="40" /> <img src="https://cdn.simpleicons.org/letsencrypt/003A70" alt="Certbot" width="40" height="40" />
 
 | Server | Version | Source | Status |
 |---|---|---|---|
@@ -436,7 +436,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/minikube/minikube-icon.svg" alt="Minikube" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40" /> <img src="https://img.shields.io/badge/Minikube-326CE5?style=flat-square" alt="Minikube" width="40" height="40" />
 
 | Tool | Version | Source |
 |---|---|---|
@@ -456,7 +456,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="ArgoCD" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/argo.svg" alt="ArgoCD" width="40" height="40" />
 
 | Tool | Version | Source |
 |---|---|---|
@@ -499,7 +499,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/nmaporg/nmaporg-icon.svg" alt="Nmap" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40" />
+<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/owasp.svg" alt="OWASP" width="40" height="40" />
 
 | Tool | Version | Package |
 |---|---|---|
@@ -561,7 +561,7 @@ The script runs through **23 numbered sections**, each with a TUI header:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/zsh/zsh-icon.svg" alt="Zsh" width="40" height="40" /> <img src="https://cdn.simpleicons.org/tmux/1BB91F" alt="tmux" width="40" height="40" /> <img src="https://cdn.simpleicons.org/starship/FF016B" alt="Starship" width="40" height="40" /> <img src="https://cdn.simpleicons.org/kittyterminal/5A46F5" alt="Kitty" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zsh.svg" alt="Zsh" width="40" height="40" /> <img src="https://cdn.simpleicons.org/tmux/1BB91F" alt="tmux" width="40" height="40" /> <img src="https://cdn.simpleicons.org/starship/FF016B" alt="Starship" width="40" height="40" /> <img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" alt="Kitty" width="40" height="40" />
 
 | Tool | Version | Source |
 |---|---|---|
@@ -897,7 +897,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/radareorg/radareorg-icon.svg" alt="radare2" width="40" height="40" /> <img src="https://cdn.simpleicons.org/yara/0066CC" alt="YARA" width="40" height="40" />
+<img src="https://img.shields.io/badge/radare2-000000?style=flat-square" alt="radare2" width="40" height="40" /> <img src="https://img.shields.io/badge/YARA-0066CC?style=flat-square" alt="YARA" width="40" height="40" />
 
 | Tool | Version | Notes |
 |---|---|---|
@@ -934,7 +934,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/nmaporg/nmaporg-icon.svg" alt="Nmap" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" /> <img src="https://cdn.simpleicons.org/sqlmap/FF0000" alt="SQLMap" width="40" height="40" />
+<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" /> <img src="https://img.shields.io/badge/SQLMap-FF0000?style=flat-square" alt="SQLMap" width="40" height="40" />
 
 | Tool | Version | Notes |
 |---|---|---|
@@ -969,7 +969,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://cdn.simpleicons.org/aquasecurity/1904DA" alt="Trivy" width="40" height="40" /> <img src="https://cdn.simpleicons.org/gitleaks/F05032" alt="GitLeaks" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/trivy/1904DA" alt="Trivy" width="40" height="40" /> <img src="https://img.shields.io/badge/GitLeaks-F05032?style=flat-square" alt="GitLeaks" width="40" height="40" />
 
 | Tool | Version | Notes |
 |---|---|---|
@@ -997,7 +997,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/netdata/netdata-icon.svg" alt="Netdata" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netdata.svg" alt="Netdata" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40" />
 
 | Tool | Version | Notes |
 |---|---|---|
@@ -1019,7 +1019,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg" alt="OpenVPN" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openvpn.svg" alt="OpenVPN" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" width="40" height="40" />
 
 | Tool | Version | Notes |
 |---|---|---|
@@ -1053,7 +1053,7 @@ Ruby 3.2.2 (rbenv) / 4.0.0 (snap) with standard library gems:
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="Firefox" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="Brave" width="40" height="40" /> <img src="https://cdn.simpleicons.org/slack/4A154B" alt="Slack" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" /> <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="Chrome" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="Firefox" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="Brave" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/slack.svg" alt="Slack" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40" /> <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="40" height="40" />
 
 ---
 
